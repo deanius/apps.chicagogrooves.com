@@ -90,7 +90,7 @@ app.helpers({
 	
     return " <li>\n" + 
            "<span title=\"" + m.path + "\">" + dispshort + "</span>" +
-           "  <a title=\"" + disppath + "\" href=\"" + m.source + "\">Download</a>\n" + 
+           "  <a title=\"" + disppath + "\" \nhref=\"" + m.source + "\"\n>Link To Source</a>\n" + 
            (incaudio ? audio : "") + 
            (incvideo ? video : "") + 
            " </li>";
