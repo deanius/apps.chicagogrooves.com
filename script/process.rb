@@ -6,7 +6,7 @@ require 'process_helper'
 options = Parser.new do |p|
   p.banner = "Usage:"
 
-  p.option :artist, "Artist", :default => "Never Go Back"
+  p.option :artist, "Artist", :default => "Never Go Back", :short => "r"
   p.option :title, "Song title pattern - Use \\f for filename, \\a for artist", :default => "\\f"
   p.option :album, "Album title pattern - Use \\d for dirname", :short =>"l", :default => "Rehearsal \\d"
   p.option :genre, "Genre", :default => "Rock"
