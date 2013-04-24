@@ -53,7 +53,7 @@ app.use(function(req, res, next){
             var content = fs.readFileSync('./public/' + entry.path, "UTF8").chomp();
             matches.push( { name: entry.path, path: entry.path, source: content, mtime: entry.stat.mtime, subtype: "video/youtube" } );
           }
-          else if( entry.path.indexOf('.mp3.s3') > -1 ){
+          else if( entry.path.indexOf('.s3') > -1 ){
             var content = fs.readFileSync('./public/' + entry.path, "UTF8").chomp()
             matches.push( { name: entry.path, path: entry.path, source: content, mtime: entry.stat.mtime } );
           }
