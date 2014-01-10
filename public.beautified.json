@@ -1,0 +1,489 @@
+[ {
+    name: "DeepFreeze.mp3",
+    path: "DeepFreeze.mp3",
+    source: "/DeepFreeze.mp3",
+    mtime: "2012-10-09T13:22:03.000Z"
+}, {
+    name: "_brad/01_DeepEnd.youtube.s3",
+    path: "_brad/01_DeepEnd.youtube.s3",
+    source: "http://www.youtube.com/watch?v=g9LiEafAICA",
+    mtime: "2013-03-14T13:43:36.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "_brad/06_ForTheWin.youtube.s3",
+    path: "_brad/06_ForTheWin.youtube.s3",
+    source: "http://www.youtube.com/watch?v=5KEws11aMcw",
+    mtime: "2013-03-14T13:43:36.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "banjar/BanjarLesson1.pdf.s3",
+    path: "banjar/BanjarLesson1.pdf.s3",
+    source: "https://s3.amazonaws.com/www.banjar.us/lessons/BanjarLesson1.pdf",
+    mtime: "2013-04-24T21:23:29.000Z"
+}, {
+    name: "dean/2011dc/02_Effect_and_Cause.mp3.s3",
+    path: "dean/2011dc/02_Effect_and_Cause.mp3.s3",
+    source: "http://s3.amazonaws.com/chicagogrooves/2011dc/02+Effect+and+Cause.mp3",
+    mtime: "2013-01-14T04:40:57.000Z"
+}, {
+    name: "dean/2011dc/03_Oliver's_Army.mp3.s3",
+    path: "dean/2011dc/03_Oliver's_Army.mp3.s3",
+    source: "http://s3.amazonaws.com/chicagogrooves/2011dc/03+Oliver's+Army.mp3",
+    mtime: "2013-01-14T04:40:57.000Z"
+}, {
+    name: "dean/2011dc/04_God's_Comic.mp3.s3",
+    path: "dean/2011dc/04_God's_Comic.mp3.s3",
+    source: "http://s3.amazonaws.com/chicagogrooves/2011dc/04+God's+Comic.mp3",
+    mtime: "2013-01-14T04:40:57.000Z"
+}, {
+    name: "dean/2011dc/05_Deep_Freeze.mp3.s3",
+    path: "dean/2011dc/05_Deep_Freeze.mp3.s3",
+    source: "http://s3.amazonaws.com/chicagogrooves/2011dc/05+Deep+Freeze.mp3",
+    mtime: "2013-01-14T04:40:57.000Z"
+}, {
+    name: "dean/2011dc/06_Call_and_Answer.mp3.s3",
+    path: "dean/2011dc/06_Call_and_Answer.mp3.s3",
+    source: "http://s3.amazonaws.com/chicagogrooves/2011dc/06+Call+and+Answer.mp3",
+    mtime: "2013-01-14T04:40:57.000Z"
+}, {
+    name: "dean/2011dc/07_Heart_of_the_Matter.mp3.s3",
+    path: "dean/2011dc/07_Heart_of_the_Matter.mp3.s3",
+    source: "http://s3.amazonaws.com/chicagogrooves/2011dc/07+Heart+of+the+Matter.mp3",
+    mtime: "2013-01-14T04:40:57.000Z"
+}, {
+    name: "dean/2011dc/08_Ding_Ding.mp3.s3",
+    path: "dean/2011dc/08_Ding_Ding.mp3.s3",
+    source: "http://s3.amazonaws.com/chicagogrooves/2011dc/08+Ding+Ding.mp3",
+    mtime: "2013-01-14T04:40:57.000Z"
+}, {
+    name: "dean/2011dc/09_Back_on_the_Train.mp3.s3",
+    path: "dean/2011dc/09_Back_on_the_Train.mp3.s3",
+    source: "http://s3.amazonaws.com/chicagogrooves/2011dc/09+Back+on+the+Train.mp3",
+    mtime: "2013-01-14T04:40:57.000Z"
+}, {
+    name: "dean/2011dc/10_Creep_You_Belong_to_Me.mp3.s3",
+    path: "dean/2011dc/10_Creep_You_Belong_to_Me.mp3.s3",
+    source: "http://s3.amazonaws.com/chicagogrooves/2011dc/10+Creep_You+Belong+to+Me.mp3",
+    mtime: "2013-01-14T04:40:57.000Z"
+}, {
+    name: "dean/Do_They_Know_Its_Christmas_xmas.youtube",
+    path: "dean/Do_They_Know_Its_Christmas_xmas.youtube",
+    source: "http://www.youtube.com/watch?v=fuUgmL1amxk",
+    mtime: "2013-01-11T03:12:28.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "dean/Heart_Of_The_Matter.youtube",
+    path: "dean/Heart_Of_The_Matter.youtube",
+    source: "http://www.youtube.com/watch?v=IGYpjt5BLbo",
+    mtime: "2013-01-11T03:12:28.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "dean/joggling.youtube",
+    path: "dean/joggling.youtube",
+    source: "http://www2.brightroom.com/107440/5574",
+    mtime: "2013-01-11T03:12:28.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "dean/perfect_day.mp3.s3",
+    path: "dean/perfect_day.mp3.s3",
+    source: "http://s3.amazonaws.com/chicagogrooves/PerfectDay.mp3",
+    mtime: "2012-11-13T04:35:31.000Z"
+}, {
+    name: "dean/sadies_tale.youtube",
+    path: "dean/sadies_tale.youtube",
+    source: "http://www.youtube.com/watch?v=Oep-XkCtaoY",
+    mtime: "2012-11-13T04:53:31.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "karate/KarateWarmup.pdf",
+    path: "karate/KarateWarmup.pdf",
+    source: "/karate/KarateWarmup.pdf",
+    mtime: "2013-01-25T05:49:23.000Z"
+}, {
+    name: "karate/tameshiwari_shuto_break.youtube",
+    path: "karate/tameshiwari_shuto_break.youtube",
+    source: "http://www.youtube.com/watch?v=MWn3Rt7LutA&t=3m56s",
+    mtime: "2012-12-24T00:46:18.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "maria/Hours_block_party.youtube",
+    path: "maria/Hours_block_party.youtube",
+    source: "http://www.youtube.com/watch?v=LDQ8zisFmNc",
+    mtime: "2013-02-06T04:29:39.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "maria/Im_Crushed_block_party.youtube",
+    path: "maria/Im_Crushed_block_party.youtube",
+    source: "http://www.youtube.com/watch?v=cIN3cLqCsak",
+    mtime: "2013-01-11T03:12:28.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "maria/MariaRunningStory.rtf",
+    path: "maria/MariaRunningStory.rtf",
+    source: "/maria/MariaRunningStory.rtf",
+    mtime: "2011-05-28T19:26:13.000Z"
+}, {
+    name: "maria/NeverGoinHome.mp3.s3",
+    path: "maria/NeverGoinHome.mp3.s3",
+    source: "http://s3.amazonaws.com/chicagogrooves/maria/NeverGoinHome.mp3",
+    mtime: "2012-12-19T00:36:36.000Z"
+}, {
+    name: "maria/OrdinaryYear.mp3.s3",
+    path: "maria/OrdinaryYear.mp3.s3",
+    source: "http://s3.amazonaws.com/chicagogrooves/maria/OrdinaryYear.mp3",
+    mtime: "2012-11-19T06:49:19.000Z"
+}, {
+    name: "maria/SophiesHeartbreak.mp3.s3",
+    path: "maria/SophiesHeartbreak.mp3.s3",
+    source: "https://s3.amazonaws.com/chicagogrooves/maria/SophiesHeartbreak.mp3",
+    mtime: "2012-11-18T05:02:51.000Z"
+}, {
+    name: "openmic/atlantic/deep_freeze.youtube",
+    path: "openmic/atlantic/deep_freeze.youtube",
+    source: "http://www.youtube.com/watch?v=JsClLEMz9jw",
+    mtime: "2012-11-13T04:10:20.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "rehearsals/NeverGoBack/2012-07-27/RiversEnd.youtube",
+    path: "rehearsals/NeverGoBack/2012-07-27/RiversEnd.youtube",
+    source: "https://www.youtube.com/watch?v=zEt8hqP6eAA",
+    mtime: "2012-12-24T00:43:52.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "rehearsals/NeverGoBack/2012-09-18/01_WillIFlyAway.mp3.s3",
+    path: "rehearsals/NeverGoBack/2012-09-18/01_WillIFlyAway.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2012-09-18/WillIFlyAway.mp3",
+    mtime: "2012-09-19T00:38:01.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-09-18/02_WillIFlyAway2.mp3.s3",
+    path: "rehearsals/NeverGoBack/2012-09-18/02_WillIFlyAway2.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2012-09-18/WillIFlyAway2.mp3",
+    mtime: "2012-09-19T00:40:01.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-09-18/03_PrayForANewDay.mp3.s3",
+    path: "rehearsals/NeverGoBack/2012-09-18/03_PrayForANewDay.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2012-09-18/PrayForANewDay.mp3",
+    mtime: "2012-09-19T01:03:01.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-09-18/04_RiversEnd.mp3.s3",
+    path: "rehearsals/NeverGoBack/2012-09-18/04_RiversEnd.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2012-09-18/RiversEnd.mp3",
+    mtime: "2012-09-19T01:08:01.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-09-18/05_Speed.mp3.s3",
+    path: "rehearsals/NeverGoBack/2012-09-18/05_Speed.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2012-09-18/Speed.mp3",
+    mtime: "2012-09-19T01:23:01.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-09-18/06_DeepFreeze.mp3.s3",
+    path: "rehearsals/NeverGoBack/2012-09-18/06_DeepFreeze.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2012-09-18/DeepFreeze.mp3",
+    mtime: "2012-09-19T02:02:34.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-09-18/07_NewToYou.mp3.s3",
+    path: "rehearsals/NeverGoBack/2012-09-18/07_NewToYou.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2012-09-18/NewToYou.mp3",
+    mtime: "2012-09-19T02:20:01.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-09-29/01_DevilsExpress.youtube",
+    path: "rehearsals/NeverGoBack/2012-09-29/01_DevilsExpress.youtube",
+    source: "http://youtu.be/Mdhn4IsuwG8?t=3m10s",
+    mtime: "2012-12-24T00:31:05.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "rehearsals/NeverGoBack/2012-09-29/02_NewToYou.youtube",
+    path: "rehearsals/NeverGoBack/2012-09-29/02_NewToYou.youtube",
+    source: "http://youtu.be/Mdhn4IsuwG8?t=9m37s",
+    mtime: "2012-12-24T00:31:05.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "rehearsals/NeverGoBack/2012-09-29/03_DeepFreeze.youtube",
+    path: "rehearsals/NeverGoBack/2012-09-29/03_DeepFreeze.youtube",
+    source: "http://youtu.be/Mdhn4IsuwG8?t=13m34s",
+    mtime: "2012-12-24T00:31:05.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "rehearsals/NeverGoBack/2012-09-29/04_Speed.youtube",
+    path: "rehearsals/NeverGoBack/2012-09-29/04_Speed.youtube",
+    source: "http://youtu.be/Mdhn4IsuwG8?t=17m35s",
+    mtime: "2012-12-24T00:31:05.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "rehearsals/NeverGoBack/2012-09-29/05_RiversEnd.youtube",
+    path: "rehearsals/NeverGoBack/2012-09-29/05_RiversEnd.youtube",
+    source: "http://youtu.be/Mdhn4IsuwG8?t=22m20s",
+    mtime: "2012-12-24T00:31:05.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "rehearsals/NeverGoBack/2012-11-04/Creep.mp3",
+    path: "rehearsals/NeverGoBack/2012-11-04/Creep.mp3",
+    source: "/rehearsals/NeverGoBack/2012-11-04/Creep.mp3",
+    mtime: "2012-12-13T05:10:48.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-11-04/DeepFreeze.mp3",
+    path: "rehearsals/NeverGoBack/2012-11-04/DeepFreeze.mp3",
+    source: "/rehearsals/NeverGoBack/2012-11-04/DeepFreeze.mp3",
+    mtime: "2012-12-13T05:10:48.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-11-04/DevilsExpress.mp3",
+    path: "rehearsals/NeverGoBack/2012-11-04/DevilsExpress.mp3",
+    source: "/rehearsals/NeverGoBack/2012-11-04/DevilsExpress.mp3",
+    mtime: "2012-12-13T05:10:48.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-11-04/NewToYou.mp3",
+    path: "rehearsals/NeverGoBack/2012-11-04/NewToYou.mp3",
+    source: "/rehearsals/NeverGoBack/2012-11-04/NewToYou.mp3",
+    mtime: "2012-12-13T05:10:48.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-11-04/RiversEnd.mp3",
+    path: "rehearsals/NeverGoBack/2012-11-04/RiversEnd.mp3",
+    source: "/rehearsals/NeverGoBack/2012-11-04/RiversEnd.mp3",
+    mtime: "2012-12-13T05:10:48.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-11-04/Uprising.mp3",
+    path: "rehearsals/NeverGoBack/2012-11-04/Uprising.mp3",
+    source: "/rehearsals/NeverGoBack/2012-11-04/Uprising.mp3",
+    mtime: "2012-12-13T05:10:48.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-11-10/01_SunnySaturday.mp3.s3",
+    path: "rehearsals/NeverGoBack/2012-11-10/01_SunnySaturday.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2012-11-10/SunnySaturday.mp3",
+    mtime: "2012-11-10T21:32:26.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-11-10/02_WaterOverWine.mp3.s3",
+    path: "rehearsals/NeverGoBack/2012-11-10/02_WaterOverWine.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2012-11-10/WaterOverWine.mp3",
+    mtime: "2012-11-10T21:46:16.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-11-10/03_Spirit1.mp3.s3",
+    path: "rehearsals/NeverGoBack/2012-11-10/03_Spirit1.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2012-11-10/Spirit1.mp3",
+    mtime: "2012-11-10T21:49:34.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-11-10/04_Spirit2.mp3.s3",
+    path: "rehearsals/NeverGoBack/2012-11-10/04_Spirit2.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2012-11-10/Spirit2.mp3",
+    mtime: "2012-11-10T22:34:48.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-11-10/05_Spirit3.mp3.s3",
+    path: "rehearsals/NeverGoBack/2012-11-10/05_Spirit3.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2012-11-10/Spirit3.mp3",
+    mtime: "2012-11-10T22:38:48.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2012-11-10/06_SpiritBest.mp3.s3",
+    path: "rehearsals/NeverGoBack/2012-11-10/06_SpiritBest.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2012-11-10/SpiritBest.mp3",
+    mtime: "2012-11-10T23:02:10.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-06/01_DevilsExpress_1.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-06/01_DevilsExpress_1.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-06/DevilsExpress_1.mp3",
+    mtime: "2013-01-11T03:12:28.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-06/02_NewToYou.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-06/02_NewToYou.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-06/NewToYou.mp3",
+    mtime: "2013-01-11T03:12:28.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-06/03_DeepFreeze_1.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-06/03_DeepFreeze_1.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-06/DeepFreeze_1.mp3",
+    mtime: "2013-01-11T03:12:28.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-06/04_DeepFreeze_2.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-06/04_DeepFreeze_2.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-06/DeepFreeze_2.mp3",
+    mtime: "2013-01-11T03:12:28.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-06/05_Spirit_1.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-06/05_Spirit_1.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-06/Spirit_1.mp3",
+    mtime: "2013-01-11T03:12:28.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-06/06_Spirit_full.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-06/06_Spirit_full.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-06/Spirit_full.mp3",
+    mtime: "2013-01-11T03:12:28.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-06/07_RiversEnd.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-06/07_RiversEnd.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-06/RiversEnd.mp3",
+    mtime: "2013-01-11T03:12:28.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-13/01_DevilsExpress.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-13/01_DevilsExpress.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-13/DevilsExpress.mp3",
+    mtime: "2013-01-13T21:36:28.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-13/02_DeepFreeze_1.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-13/02_DeepFreeze_1.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-13/DeepFreeze_1.mp3",
+    mtime: "2013-01-13T21:47:00.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-13/03_DeepFreeze_2.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-13/03_DeepFreeze_2.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-13/DeepFreeze_2.mp3",
+    mtime: "2013-01-13T21:52:00.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-13/04_Jam.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-13/04_Jam.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-13/Jam.mp3",
+    mtime: "2013-01-13T21:59:06.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-13/05_DeepFreeze_3.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-13/05_DeepFreeze_3.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-13/DeepFreeze_3.mp3",
+    mtime: "2013-01-13T22:12:54.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-13/06_NewToYou.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-13/06_NewToYou.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-13/NewToYou.mp3",
+    mtime: "2013-01-13T22:16:38.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-13/07_NewToYou_2.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-13/07_NewToYou_2.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-13/NewToYou_2.mp3",
+    mtime: "2013-01-13T22:40:00.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-13/08_Spirit_1.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-13/08_Spirit_1.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-13/Spirit_1.mp3",
+    mtime: "2013-01-13T22:43:14.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-13/09_DeepFreeze_4.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-13/09_DeepFreeze_4.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-13/DeepFreeze_4.mp3",
+    mtime: "2013-01-13T22:47:16.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-20/01_DevilsExpress.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-20/01_DevilsExpress.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-20/DevilsExpress.mp3",
+    mtime: "2013-01-25T05:49:23.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-20/02_Speed.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-20/02_Speed.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-20/Speed.mp3",
+    mtime: "2013-01-25T05:49:23.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-20/03_PrayForANewDay.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-20/03_PrayForANewDay.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-20/PrayForANewDay.mp3",
+    mtime: "2013-01-25T05:49:23.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-20/04_NewSong.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-20/04_NewSong.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-20/NewSong.mp3",
+    mtime: "2013-01-25T05:49:23.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-20/05_NewSong2.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-20/05_NewSong2.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-20/NewSong2.mp3",
+    mtime: "2013-01-25T05:49:23.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-20/06_DeepFreeze.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-20/06_DeepFreeze.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-20/DeepFreeze.mp3",
+    mtime: "2013-01-25T05:49:23.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-20/07_NewToYou.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-20/07_NewToYou.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-20/NewToYou.mp3",
+    mtime: "2013-01-25T05:49:23.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-20/08_RiversEnd.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-20/08_RiversEnd.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-20/RiversEnd.mp3",
+    mtime: "2013-01-25T05:49:23.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-20/09_Spirit.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-20/09_Spirit.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-20/Spirit.mp3",
+    mtime: "2013-01-25T05:49:23.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-20/10_Creep.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-20/10_Creep.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-01-20/Creep.mp3",
+    mtime: "2013-01-25T05:49:23.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-01-24/01_RulersOfTheWorld.mp3.s3",
+    path: "rehearsals/NeverGoBack/2013-01-24/01_RulersOfTheWorld.mp3.s3",
+    source: "http://nevergoback.s3.amazonaws.com/2013-02-24/RulersOfTheWorld.mp3",
+    mtime: "2013-03-14T13:43:36.000Z"
+}, {
+    name: "rehearsals/NeverGoBack/2013-03-01/Rivers_End.youtube",
+    path: "rehearsals/NeverGoBack/2013-03-01/Rivers_End.youtube",
+    source: "http://www.youtube.com/watch?v=7pMgF2XIS20",
+    mtime: "2013-03-14T13:43:37.000Z",
+    subtype: "video/youtube"
+}, {
+    name: "running.html",
+    path: "running.html",
+    source: "/running.html",
+    mtime: "2012-10-14T05:20:45.000Z"
+}, {
+    name: "scripts/jquery.min.js",
+    path: "scripts/jquery.min.js",
+    source: "/scripts/jquery.min.js",
+    mtime: "2012-09-17T19:06:15.000Z"
+}, {
+    name: "songs/AngelFromMontgomery.pdf",
+    path: "songs/AngelFromMontgomery.pdf",
+    source: "/songs/AngelFromMontgomery.pdf",
+    mtime: "2013-02-06T04:29:38.000Z"
+}, {
+    name: "songs/CreepTonight.pdf",
+    path: "songs/CreepTonight.pdf",
+    source: "/songs/CreepTonight.pdf",
+    mtime: "2012-01-08T05:59:11.000Z"
+}, {
+    name: "songs/DeepFreeze.pdf",
+    path: "songs/DeepFreeze.pdf",
+    source: "/songs/DeepFreeze.pdf",
+    mtime: "2012-02-18T17:56:57.000Z"
+}, {
+    name: "songs/DeepFreeze_orig.pdf",
+    path: "songs/DeepFreeze_orig.pdf",
+    source: "/songs/DeepFreeze_orig.pdf",
+    mtime: "2012-01-08T05:37:49.000Z"
+}, {
+    name: "songs/HeartOfTheMatter.pdf",
+    path: "songs/HeartOfTheMatter.pdf",
+    source: "/songs/HeartOfTheMatter.pdf",
+    mtime: "2012-01-08T05:58:47.000Z"
+}, {
+    name: "songs/PlasticSaddle.pdf",
+    path: "songs/PlasticSaddle.pdf",
+    source: "/songs/PlasticSaddle.pdf",
+    mtime: "2012-01-22T14:35:38.000Z"
+}, {
+    name: "songs/StChristopher.pdf",
+    path: "songs/StChristopher.pdf",
+    source: "/songs/StChristopher.pdf",
+    mtime: "2013-05-31T20:09:12.000Z"
+}, {
+    name: "songs/StChristopher.rtf",
+    path: "songs/StChristopher.rtf",
+    source: "/songs/StChristopher.rtf",
+    mtime: "2013-08-19T19:49:20.000Z"
+}, {
+    name: "songs/Sympathique.pdf",
+    path: "songs/Sympathique.pdf",
+    source: "/songs/Sympathique.pdf",
+    mtime: "2012-11-03T00:01:02.000Z"
+}, {
+    name: "songs/Train.pdf",
+    path: "songs/Train.pdf",
+    source: "/songs/Train.pdf",
+    mtime: "2012-01-08T16:26:23.000Z"
+}, {
+    name: "songs/Uprising.pdf",
+    path: "songs/Uprising.pdf",
+    source: "/songs/Uprising.pdf",
+    mtime: "2012-11-03T00:00:54.000Z"
+}, {
+    name: "yoga/yoga_tripod_headstand.youtube",
+    path: "yoga/yoga_tripod_headstand.youtube",
+    source: "https://www.youtube.com/watch?v=h7Rx1DSea_U",
+    mtime: "2012-12-24T02:15:24.000Z",
+    subtype: "video/youtube"
+} ];
