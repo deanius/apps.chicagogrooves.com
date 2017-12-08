@@ -9,16 +9,8 @@ var rest = require("restler");
 var AdmZip = require("adm-zip");
 
 // create an express webserver
-var app = express(
-  express.static(__dirname + "/public")
-  /*,
-  require('faceplate').middleware({
-    app_id: process.env.FACEBOOK_APP_ID,
-    secret: process.env.FACEBOOK_SECRET,
-    scope:  'user_likes,user_photos,user_photo_video_tags'
-  }) */
-);
-var helpers = require("express-helpers")(app);
+var app = express();
+app.use(express.static(__dirname + "/public"));
 
 // listen to the PORT given to us in the environment
 var port = process.env.PORT || 3000;
