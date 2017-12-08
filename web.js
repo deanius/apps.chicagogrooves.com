@@ -99,7 +99,8 @@ app.use(function(req, res, next) {
           showFullNav: false,
           status: 200,
           url: req.url,
-          path: req.url
+          path: req.url,
+          renderMatch: renderMatch
         });
       }
     );
