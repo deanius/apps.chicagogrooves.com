@@ -1,26 +1,23 @@
 {
-  "name":    "Setlist",
+  "name": "Setlist",
   "version": "0.0.2",
-
   "description": "Dean's portfolio/music/everything site",
-
   "dependencies": {
-    "async":     "0.1.18",
-    "ejs":       "0.4.3",
-    "express":   "2.4.6",
+    "adm-zip": "0.1.9",
+    "async": "0.1.18",
+    "chomp": "0.0.1",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-helpers": "^1.3.2",
     "faceplate": "0.0.4",
     "readdirp": "0.1.4",
-    "chomp": "0.0.1",
     "restler": "2.0.1",
-  	"xml2js": "0.2.2",
-    "adm-zip": "0.1.9"
+    "xml2js": "0.2.2"
   },
-  
   "scripts": {
     "start": "node web.js"
   },
-
   "engines": {
-    "node": "0.6.x"
+    "node": "6.11.x"
   }
 }
