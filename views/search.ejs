@@ -1,64 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
 
-    <title><%= title %></title>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
+
+	<title>
+		<%= title %>
+	</title>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 	<script src="//s3.amazonaws.com/www.chicagogrooves.com/js/mediaelement-and-player.min.js"></script>
 	<link rel="stylesheet" href="//s3.amazonaws.com/www.chicagogrooves.com/stylesheets/mp/mediaelementplayer.min.css" />
-  </head>
-  <body>
-    <pre>
+</head>
+
+<body>
+	<pre>
     Showing results for '<%= path %>'
     </pre>
 
-    <ul class='matches'>
-    <%- 
-      matches.map( function(m){ return render_match(m); }).join("\n") 
+	<ul class='matches'>
+		<%-
+      matches.map( function(m){ return renderMatch(m); }).join("\n")
     %>
-    </ul>
+	</ul>
 
 	<!-- a href="/getzip.zip?path=<%= path %>">Download all as zip (coming soon)</a -->
-	
+
 	<script type="text/javascript">
-	var mediaElementPlayers;
-	
-	$(function (jQuery) {
-	    // make an array for the mediaelement players
-	    mediaElementPlayers = new Array();
+		var mediaElementPlayers;
 
-	    jQuery('audio,video').mediaelementplayer({
-	        iPadUseNativeControls: false,
-	        iPhoneUseNativeControls: true,
-	        AndroidUseNativeControls: false,
-	        pauseOtherPlayers: true,
-	        success: function (mediaElement, domObject) {
-	            // add this mediaelement to the mediaElementPlayers array
-	            mediaElementPlayers.push(mediaElement);
-	            //console.log(mediaElement);
-	            mediaElement.addEventListener('ended', function (e) {
-	                playNext(e.target);
-	            }, false);
-	        },
-	        keyActions: []
-	    })
+		$(function (jQuery) {
+			// make an array for the mediaelement players
+			mediaElementPlayers = new Array();
 
-	    // find the current player and start playing the following player
-	    function playNext(currentPlayer) {
-	        for (i = 0; i < mediaElementPlayers.length; i++) {
-	            if (mediaElementPlayers[i] == currentPlayer) {
-	                if (mediaElementPlayers[i + 1] == undefined) { // If this is the last player Start from the beginning
-	                    mediaElementPlayers[0].play();
-	                } else { // Start the next player
-	                    mediaElementPlayers[i + 1].play();
-	                }
-	            }
-	        }
-	    }
-	});	
+			jQuery('audio,video').mediaelementplayer({
+				iPadUseNativeControls: false,
+				iPhoneUseNativeControls: true,
+				AndroidUseNativeControls: false,
+				pauseOtherPlayers: true,
+				success: function (mediaElement, domObject) {
+					// add this mediaelement to the mediaElementPlayers array
+					mediaElementPlayers.push(mediaElement);
+					//console.log(mediaElement);
+					mediaElement.addEventListener('ended', function (e) {
+						playNext(e.target);
+					}, false);
+				},
+				keyActions: []
+			})
+
+			// find the current player and start playing the following player
+			function playNext(currentPlayer) {
+				for (i = 0; i < mediaElementPlayers.length; i++) {
+					if (mediaElementPlayers[i] == currentPlayer) {
+						if (mediaElementPlayers[i + 1] == undefined) { // If this is the last player Start from the beginning
+							mediaElementPlayers[0].play();
+						} else { // Start the next player
+							mediaElementPlayers[i + 1].play();
+						}
+					}
+				}
+			}
+		});
 	</script>
-  </body>
-</html>
+</body>
 
+</html>

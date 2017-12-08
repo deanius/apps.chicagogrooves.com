@@ -106,42 +106,40 @@ app.use(function(req, res, next) {
   }
 });
 
-var helpers = {
-  render_match: function(m) {
-    var audio =
-      ' <audio src="' +
-      m.source +
-      "\" type='audio/mp3' controls='controls' preload='metadata'></audio>";
-    var video =
-      "  <video controls='controls' preload='metadata'><source src='" +
-      m.source +
-      "' type='video/youtube'></source></video>\n";
-    var incaudio = m.path.match(/\.mp3/i);
-    var incvideo = m.subtype == "video/youtube";
+function renderMatch(m) {
+  var audio =
+    ' <audio src="' +
+    m.source +
+    "\" type='audio/mp3' controls='controls' preload='metadata'></audio>";
+  var video =
+    "  <video controls='controls' preload='metadata'><source src='" +
+    m.source +
+    "' type='video/youtube'></source></video>\n";
+  var incaudio = m.path.match(/\.mp3/i);
+  var incvideo = m.subtype == "video/youtube";
 
-    var disppath = m.name.indexOf("s3") > -1 ? m.source : m.path;
-    //var disppath = m.source;
-    var dispname = m.name.replace(/\.s3$/, "");
-    var dispshort = dispname.replace(/^.*\//, "");
+  var disppath = m.name.indexOf("s3") > -1 ? m.source : m.path;
+  //var disppath = m.source;
+  var dispname = m.name.replace(/\.s3$/, "");
+  var dispshort = dispname.replace(/^.*\//, "");
 
-    return (
-      " <li>\n" +
-      '<span title="' +
-      m.path +
-      '">' +
-      dispshort +
-      "</span>" +
-      '  <a title="' +
-      disppath +
-      '" \nhref="' +
-      m.source +
-      '"\n>Link To Source</a>\n' +
-      (incaudio ? audio : "") +
-      (incvideo ? video : "") +
-      " </li>"
-    );
-  }
-};
+  return (
+    " <li>\n" +
+    '<span title="' +
+    m.path +
+    '">' +
+    dispshort +
+    "</span>" +
+    '  <a title="' +
+    disppath +
+    '" \nhref="' +
+    m.source +
+    '"\n>Link To Source</a>\n' +
+    (incaudio ? audio : "") +
+    (incvideo ? video : "") +
+    " </li>"
+  );
+}
 
 var dynamicHelpers = {
   host: function(req, res) {
